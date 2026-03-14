@@ -1,0 +1,14 @@
+name: guidelines.md
+description: JetBrains Junie AI agent configuration file stored in .junie/ directory
+  providing persistent project-level context and coding guidelines.
+url: ''
+tags:
+- AI Agents
+- JetBrains
+- Developer Workflow
+- Coding Standards
+- AI Copilot
+created: '2025'
+modified: '2025'
+apis: []
+common: []
