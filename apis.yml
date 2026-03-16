@@ -1,14 +1,24 @@
+aid: guidelines-md
 name: guidelines.md
-description: JetBrains Junie AI agent configuration file stored in .junie/ directory
-  providing persistent project-level context and coding guidelines.
-url: ''
+description: >-
+  JetBrains Junie AI agent configuration file stored in .junie/ directory
+  providing persistent project-level context and coding guidelines for AI
+  code assistants.
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/guidelines-md/refs/heads/main/apis.yml
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- AI Agents
-- JetBrains
-- Developer Workflow
-- Coding Standards
-- AI Copilot
+  - AI Agents
+  - JetBrains
+  - Developer Workflow
+  - Coding Standards
+  - AI Copilot
 created: '2025'
-modified: '2025'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
 common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
