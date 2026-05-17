@@ -6,7 +6,7 @@ description: >-
   guidelines for AI code assistants.
 url: >-
   https://raw.githubusercontent.com/api-evangelist/guidelines-md/refs/heads/main/apis.yml
-type: Standard
+kind: standard
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - AI Agents
