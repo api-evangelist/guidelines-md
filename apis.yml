@@ -1,5 +1,6 @@
 aid: guidelines-md
 name: Guidelines.md
+x-type: convention
 description: >-
   JetBrains Junie AI agent configuration file stored in the .junie/
   directory providing persistent project-level context and coding
